@@ -1,4 +1,4 @@
-PersonSensor
-============
+Desk Occupancy Sensor
+=====================
 
-Simple javascript to detect person.
+A simple javascript to detect person using webcam.
